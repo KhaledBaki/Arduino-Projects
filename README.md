@@ -1,6 +1,8 @@
 # Arduino Projects List
 - Simple Traffic Light
 - Intro to Buttons Circuit
+- LCD Screen Circuit
+
 # Disclaimer
 This Arduino project is provided for educational and experimental purposes only.
 
