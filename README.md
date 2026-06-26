@@ -1,6 +1,6 @@
 # Arduino Projects List
 - Simple Traffic Light
-- intro to Buttons Circuit
+- Intro to Buttons Circuit
 # Disclaimer
 This Arduino project is provided for educational and experimental purposes only.
 
