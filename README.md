@@ -2,6 +2,7 @@
 - Simple Traffic Light
 - Intro to Buttons Circuit
 - LCD Screen Circuit
+- Basic Logic Gates
 
 # Disclaimer
 This Arduino project is provided for educational and experimental purposes only.
