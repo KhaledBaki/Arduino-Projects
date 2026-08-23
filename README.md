@@ -3,6 +3,7 @@
 - Intro to Buttons Circuit
 - LCD Screen Circuit
 - Basic Logic Gates
+- Voltmeter
 
 # Disclaimer
 This Arduino project is provided for educational and experimental purposes only.
