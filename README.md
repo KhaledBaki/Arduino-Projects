@@ -5,6 +5,9 @@
 - Basic Logic Gates
 - Voltmeter
 
+# Demos
+Most projects include pictures and/or videos, feel free to take a look at them to understand functionality!
+
 # Disclaimer
 This Arduino project is provided for educational and experimental purposes only.
 
