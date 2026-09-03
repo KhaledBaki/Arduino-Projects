@@ -8,7 +8,7 @@ This voltmeter is used to measure and display the voltage to the user's serial m
 in the Arduino IDE.
 
 Given the maximun voltage the allowed on most Arduino boards is 5 volts, the following equation must satisfy:
-Voltage_OUT = Voltage_IT * (R2/ (R1 + R2)), solve this equation for Voltage_OUT = 5 and the maximum anticipated
+Voltage_OUT = Voltage_IN * (R2/ (R1 + R2)), solve this equation for Voltage_OUT = 5 and the maximum anticipated
 Voltage_IN value to know which resistor values you should use.
 The more excess resistance in the circuit, the less accurate the voltage reading is.
 The red and green light serve as binary indicators, to display if there is voltage in a given path.
